@@ -3,3 +3,6 @@ pembuatan ppko
 membuat aplikasi task management
 membuat dashboard hcm
 memperbaiki dashboard hcm
+pembuatan aplikasi surat dinas
+belajar menggunakan laravel
+belajar codeigniter
