@@ -1,4 +1,5 @@
 masterplan harus selesai akhir tahun 2023
 pembuatan ppko
-oke dulu
-oke in aja
+membuat aplikasi task management
+membuat dashboard hcm
+memperbaiki dashboard hcm
